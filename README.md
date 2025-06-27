@@ -1,5 +1,3 @@
-Absolutely, Michael. Here's a **comprehensively shortened and cleaned-up** version of your paragraphs, tailored for a professional `README.md`. I’ve also added a **clickable Table of Contents** using GitHub Markdown-style anchor links, pointing to each main section.
-
 ---
 
 ## 📘 Table of Contents
