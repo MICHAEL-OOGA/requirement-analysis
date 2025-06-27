@@ -64,8 +64,6 @@ Requirement Analysis is a core phase of the Software Development Lifecycle (SDLC
 * **Acceptance Criteria:** Define when a requirement is met.
 * **Traceability:** Ensure all requirements are tracked through development.
 
----
 
-Let me know if you'd like this styled further for VS Code preview or GitHub Pages rendering.
 
 
