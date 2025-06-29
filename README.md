@@ -78,6 +78,9 @@ These define **how** the system performs — its quality, reliability, and const
 
 A Use Case Diagram is a **visual representation of system functionality** from the user's perspective. It highlights the interactions between **actors** (users or systems) and **use cases** (functions the system performs).
 
+
+![image alt](https://github.com/MICHAEL-OOGA/requirement-analysis/blob/main/alx-booking-uc.png.png?raw=true)
+
 ---
 
 ### 🎯 Benefits
